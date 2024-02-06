@@ -62,4 +62,4 @@ while(True):
             print(notes)
             break
         case _:
-            print('Invalid option')
+            print('Invalid option, try again pls')
